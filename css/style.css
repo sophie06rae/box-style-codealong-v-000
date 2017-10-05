@@ -173,7 +173,7 @@ header {
 }
 
 #navbar nav a.selected {
-  background: #eee;
+  background: #333;
   color: white;
 }
 
